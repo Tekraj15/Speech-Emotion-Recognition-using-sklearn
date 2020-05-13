@@ -1,5 +1,4 @@
 # Speech-Emotion-Recognition-using-sklearn
-DATASET LINK -> https://drive.google.com/file/d/1wWsrN2Ep7x6lWqOXfr4rpKGYrJhWc8z7/view because file was too big to upload
 Speech emotion recognition specially used in call centers to recognize customer's emotion. 
 This helps business, startups and companies to analyse their product service. Call centers employees never talk in the same manner, their way of pitching/talking to the customers changes with customers. The employees recognize customers’ emotions from speech, so they can improve their service and convert more people. In this way, they are using speech emotion recognition.
 # The Dataset
